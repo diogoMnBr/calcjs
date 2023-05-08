@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "acorn": "^8.8.2",
+    "mathjs": "^11.8.0"
+  }
+}
